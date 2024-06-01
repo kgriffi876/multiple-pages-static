@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-color: #cad8ee;
+}
+
+p {
+  margin: 30px;
+}
+
+.links {
+  margin: 30px;
+  display: flex;
+  justify-content: space-evenly;
+}
